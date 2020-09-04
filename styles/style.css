@@ -125,10 +125,10 @@ img {
     justify-self: center;
     font-size: large;
     width: 300px;
-    margin-left: 10px;
+    margin-left: 250px; 
     font-family: 'Noto Sans TC', sans-serif;
     font-weight: 700;
-    border: solid red 1px;
+    /* border: solid red 1px; */
 }
 #bottom-right {
     justify-self: start;
@@ -136,5 +136,5 @@ img {
     font-weight: 300;
     width: 300px;
     font-family: 'Noto Sans TC', sans-serif;
-    border: solid red 1px;
+    /* border: solid red 1px; */
 }
